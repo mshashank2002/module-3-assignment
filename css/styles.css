@@ -1,0 +1,17 @@
+.navbar 
+{
+	background-color: gray;
+	font-family: sans-serif;
+}
+
+.navbar-brand
+{
+	color:#fff;
+	font-size: 1.4em;
+	font-family: sans-serif;
+}
+#section-1,#section-2,#section-3
+{
+	background-color: gray;
+	margin:auto;
+}
